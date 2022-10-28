@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ### :octocat: DAFTPUNKTOCATS
 
-[<img src='https://octodex.github.com/images/daftpunktocat-thomas.gif' alt='telegram' height='430'>]() 
-[<img src='https://octodex.github.com/images/daftpunktocat-guy.gif' alt='adguard' height='430'>]() 
+[<img src='https://octodex.github.com/images/daftpunktocat-thomas.gif' alt='telegram' height='420'>]() 
+[<img src='https://octodex.github.com/images/daftpunktocat-guy.gif' alt='adguard' height='420'>]() 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nazarov-Ivan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Nazazick)  
 
