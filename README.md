@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Java Spring  
 
-### :octocat: DAFTPUNKTOCATS
+### :octocat: DAFTPUNKTOCAT
 
 [<img src='https://octodex.github.com/images/daftpunktocat-thomas.gif' alt='telegram' height='420'>]() 
 [<img src='https://octodex.github.com/images/daftpunktocat-guy.gif' alt='adguard' height='420'>]() 
