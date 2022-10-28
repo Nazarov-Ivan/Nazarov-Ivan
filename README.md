@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋, my name is Ivan
 
 <!--
 **Nazarov-Ivan/Nazarov-Ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Java Spring  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+### :octocat: DAFTPUNKTOCATS
+
+[<img src='https://octodex.github.com/images/daftpunktocat-thomas.gif' alt='telegram' height='500'>]() 
+[<img src='https://octodex.github.com/images/daftpunktocat-guy.gif' alt='adguard' height='500'>]() 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nazarov-Ivan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Nazazick)  
+
+![Profile views](https://gpvc.arturio.dev/Nazarov-Ivan) 
